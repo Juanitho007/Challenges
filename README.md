@@ -15,11 +15,16 @@
 - **CSS**: Styling for a clean and user-friendly interface.
 - **JavaScript**: Logic to handle friend list management and the random drawing process.
 
-## Installation 🧑‍💻
-
 ### Clone the Repository
 
 To get started, clone the repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/juanitho007/amigo-secreto.git
+```
+
+### Clone the Repository
+
+![alt text](./assets/image_1.png)
+![alt text](./assets/image_2.png)
+![alt text](./assets/image_3.png)

@@ -133,9 +133,13 @@ ul {
     font-size: 18px;
     margin: 20px 0;
 }
-li{
-        text-transform: capitalize;
 
+li {
+    text-transform: capitalize;
+}
+
+.result-list>b {
+    text-transform: capitalize;
 }
 
 .result-list {
@@ -145,6 +149,7 @@ li{
     font-weight: bold;
     text-align: center;
 }
+
 
 /* Botón de sortear título */
 .button-draw {
